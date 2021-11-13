@@ -1,3 +1,8 @@
+![Lesbellois-Community](https://user-images.githubusercontent.com/25490134/141648406-54f5b688-4534-4298-b16f-9062ea32c415.png)
+
+Projet de ChatRoom privé de l'Association "COLLECTIF POUR LE DÉVELOPPEMENT DE BONANJO" dénommé Lesbellois-Community
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
