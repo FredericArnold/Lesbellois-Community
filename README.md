@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f8731d2e-5cc9-4619-94a7-94a7c7517899/deploy-status)](https://app.netlify.com/sites/lesbellois-community/deploys)
-
 ![Lesbellois-Community](https://user-images.githubusercontent.com/25490134/141648406-54f5b688-4534-4298-b16f-9062ea32c415.png)
 
 Projet de ChatRoom privé de l'Association "COLLECTIF POUR LE DÉVELOPPEMENT DE BONANJO" dénommé Lesbellois-Community
